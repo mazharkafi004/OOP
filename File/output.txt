@@ -1,0 +1,15 @@
+
+'We' is 1 times.
+'born' is 1 times.
+'in' is 1 times.
+'this' is 2 times.
+'country,' is 1 times.
+'I' is 1 times.
+'love' is 1 times.
+'my' is 1 times.
+'country' is 1 times.
+'very' is 1 times.
+'much,' is 1 times.
+'is' is 1 times.
+'our' is 1 times.
+'pride' is 1 times.
